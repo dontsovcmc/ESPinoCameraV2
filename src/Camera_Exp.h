@@ -5,40 +5,23 @@
 #include "camera/include/camera.h"
 
 
-#define   CONFIG_D0     33
-#define   CONFIG_D1     39
-#define   CONFIG_D2     36
-#define   CONFIG_D3     32
-#define   CONFIG_D4     34
-#define   CONFIG_D5     35
-#define   CONFIG_D6     04
-#define   CONFIG_D7     15
-#define   CONFIG_XCLK   13
-#define   CONFIG_PCLK   12
-#define   CONFIG_VSYNC  14
-#define   CONFIG_HREF   27
-#define   CONFIG_SDA    21
-#define   CONFIG_SCL    22
-#define   CONFIG_RESET  25
+#define   CONFIG_D0     17
+#define   CONFIG_D1     35
+#define   CONFIG_D2     34
+#define   CONFIG_D3     5
+#define   CONFIG_D4     39
+#define   CONFIG_D5     18
+#define   CONFIG_D6     36
+#define   CONFIG_D7     19
+#define   CONFIG_XCLK   27
+#define   CONFIG_PCLK   21
+#define   CONFIG_VSYNC  22
+#define   CONFIG_HREF   26
+#define   CONFIG_SDA    25
+#define   CONFIG_SCL    23 
+#define   CONFIG_RESET  15
 
 
-/*
-#define   CONFIG_D0      13
-#define   CONFIG_D1      15
-#define   CONFIG_D2      2
-#define   CONFIG_D3      4
-#define   CONFIG_D4      35
-#define   CONFIG_D5      34
-#define   CONFIG_D6      33
-#define   CONFIG_D7      32
-#define   CONFIG_XCLK    18
-#define   CONFIG_PCLK    17
-#define   CONFIG_VSYNC   36
-#define   CONFIG_HREF    39
-#define   CONFIG_SDA     21
-#define   CONFIG_SCL     22
-#define   CONFIG_RESET   27
-*/
 
 #define   CONFIG_XCLK_FREQ  10000000
 
